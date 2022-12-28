@@ -1,2 +1,2 @@
 # XML-Annotation
-Use the reports of 10 best gardens in London
+Annotate the reports of 10 best gardens in London under TEI standard
