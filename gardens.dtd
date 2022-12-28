@@ -1,0 +1,55 @@
+<!-- part1 teiHeading -->
+<!ELEMENT TEI (teiHeader,text)>
+    <!ELEMENT teiHeader (fileDesc)>
+        <!ELEMENT fileDesc (titleStmt,sourceDesc)>
+            <!ELEMENT titleStmt (title, author)>
+                <!ELEMENT title (#PCDATA)>
+                <!ELEMENT author (#PCDATA)>
+            <!ELEMENT sourceDesc (#PCDATA)>
+
+<!-- part2 teiText -->
+    <!ELEMENT text (div+)>
+        <!ELEMENT div (head,body,address)>
+        <!ATTLIST div  type CDATA #REQUIRED>
+        <!ATTLIST div  n CDATA #REQUIRED>
+
+            <!ELEMENT head (#PCDATA)>
+
+            <!ELEMENT body (p+)>
+                <!ELEMENT p (#PCDATA | persName | placeName | emph | measure | num | date | term | orgName)*>
+                <!ATTLIST p type CDATA #REQUIRED>
+                    <!ELEMENT persName (#PCDATA)>
+                    <!ATTLIST persName type CDATA #REQUIRED>
+
+                    <!ELEMENT placeName (#PCDATA | geogName)*>
+                    <!ATTLIST placeName type CDATA #IMPLIED>
+                        <!ELEMENT  geogName  (#PCDATA)>
+                        <!ATTLIST geogName type CDATA #REQUIRED>
+                        
+                    <!ELEMENT emph (#PCDATA)>
+                    <!ATTLIST emph type CDATA #REQUIRED>
+                    
+                    <!ELEMENT measure (#PCDATA)>
+                    <!ATTLIST measure type CDATA #REQUIRED>
+                    
+                    <!ELEMENT num (#PCDATA)>
+                    <!ATTLIST num type CDATA #REQUIRED>
+                    <!ATTLIST num value CDATA #REQUIRED>
+                    
+                    <!ELEMENT date (#PCDATA)>
+                    <!ATTLIST date when CDATA #REQUIRED>
+                    
+                    <!ELEMENT term (#PCDATA)>
+                    <!ATTLIST term type CDATA #REQUIRED>
+                    
+                    <!ELEMENT orgName (#PCDATA)>
+                    <!ATTLIST orgName type CDATA #IMPLIED>
+
+
+
+            <!ELEMENT address (street*, name*, city*, region, postCode)>
+                <!ELEMENT street (#PCDATA)>
+                <!ELEMENT name (#PCDATA)>
+                <!ELEMENT city (#PCDATA)>
+                <!ELEMENT region (#PCDATA)>
+                <!ELEMENT postCode (#PCDATA)>

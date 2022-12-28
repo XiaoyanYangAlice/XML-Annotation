@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI SYSTEM 'gardens.dtd'>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>10 London gardens with their history and design style</title>
+                <author>Gardenvisit</author>
+            </titleStmt>
+
+            <sourceDesc>https://www.gardenvisit.com/gardens</sourceDesc>
+        </fileDesc>
+
+    </teiHeader>
+
+    <text>
+        <div n="1" type="Kensington Gardens (Park)">
+            <head>Kensington Gardens (Park)</head>
+            <body>
+                <p type="history">
+                    The greenspace called 'Kensington Gardens' was the deer park acquired by 
+                    <persName type="King">Henry VIII</persName>.
+                    It belonged to <placeName type="palace">Kensington palace</placeName> - and there is a good case for 
+                    calling it '<placeName type="garden">Kensington Park'</placeName>. 
+                    <persName type="royalMale">William III</persName> bought 
+                    <term type="architecture">Nottingham House</term> for 
+                    <num type="price" value="2000">�20,000</num> and converted it into 
+                    <placeName type="palace">Kensington Palace</placeName>. 
+                    <placeName>Kensington Park</placeName>' was made on land taken from 
+                    <placeName type="park">Hyde Park</placeName> by <persName type="royalFemale">Queen Caroline</persName> 
+                    (Caroline of Brandenburg-Ansbach, the wife of <persName type="royalMale">King George II</persName>). 
+                    She employed <persName type="designer">Charles Bridgeman</persName> from <date when="1728-1738">1728-1738</date> 
+                    to make a <emph type="gardenStyle">Baroque Style</emph> park, including 
+                    the <placeName type="inside"><geogName type="avenues">avenues</geogName></placeName> 
+                    and the <placeName type="inside"><geogName type="pond">Round Pond</geogName></placeName>. 
+                    
+                </p>
+        
+                <p type="design">
+                    There was a <term type="architecture">bastioned wall</term> 
+                    on <measure type="east">the east of boundary</measure> of '<placeName type="garden">Kensington Park</placeName>', 
+                    on the line of what is now <placeName type="inside">the West Carriage Drive</placeName>, 
+                    as shown on <persName type="designer">John Rocque</persName>'s <date when="1756">1756</date> plan.
+                    Like a Ha-Ha in a landscape garden, the aim was to give a view of the surrounding countryside 
+                    (in this case, <placeName type="park">Hyde Park</placeName>).
+                    <persName type="designer">Charles Bridgeman</persName> is regarded as a 'transitional' designer and his biographer, 
+                    <persName type="biographer">Peter Willis</persName>, saw him as a key figure in genesis of the landscape garden. 
+                    If this is correct, then one can find evidence of 'the great revolution in taste' within 
+                    the perimeter of <placeName type="garden">Kensington Gardens</placeName> and <placeName type="park">Hyde Park</placeName>.
+                
+                </p>
+        
+                <p type="scenery">
+                    <measure type="west">The western part</measure> of <placeName type="garden">Kensington Gardens</placeName>, 
+                    around <placeName type="palace">the Palace</placeName>, was definitely <emph type="gardenStyle">baroque</emph>.
+                    The eastern section, where <placeName type="inside"><geogName type="avenues">the avenues</geogName></placeName> 
+                    approach <placeName type="inside"><geogName type="lake">the Long Water</geogName></placeName>, is an 
+                    early example of what became <emph type="gardenStyle">the Serpentine Style</emph>. 
+                    <placeName type="park">Hyde Park</placeName>, with its 
+                    <placeName><geogName type="lake">Serpentine lake</geogName></placeName>, 
+                    was an early project in what was to become '<emph type="gardenStyle">the style of William Kent and Lancelot Brown</emph>'. 
+                    The best point to see the transition is <term type="architecture">the Queen's Temple</term>, 
+                    shown by the red marker baloon on the map below.
+                    It was built as a feature in a bosquet and now has the appearance of a Temple in a landscape garden.
+                </p>
+        
+                
+        
+                <p type="openness">
+                    Kensington Gardens <emph type="openStatus">private</emph> for most of <date when="1700-1800">the eighteenth century</date> 
+                    and then <emph type="openStatus">progressively opened to public access</emph>. 
+                    <persName type="royalFemale">Queen Victoria</persName> granted <emph type="openStatus">full public access</emph> in 
+                    <date when="1841">1841</date> but, probably because of their location, they have an upper-class air.
+                </p>
+            </body>
+
+            
+            <address>
+                <street>Park Lane</street>
+                <name>The Old Police House,Hyde Park</name>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>W2 2UH</postCode>
+            </address>
+
+        </div>    
+
+        <div n="2" type="Barbican">
+
+            <head>Barbican</head>
+            <body>
+                <p type="scenery">
+                    A vast development in the City of London.
+                    To some, it is a forest of tower blocks.
+                    For others, there are many exciting features including 
+                    <term type="architecture"> type="fountains,cascade,roof garden,trees,pools,sitting area">massed fountains, 
+                    a cascade, roof gardens, trees growing on columns, great pools and 
+                    a sitting area</term> which is set below water level.
+                    It is a prime example of <emph type="gardenStyle">the Abstract Modern design style</emph>.
+                    However, many of the spaces are bleak and draughty. 
+                    Extensive pedestrian decks cover the parking areas and access roads. 
+                </p>
+        
+                <p type="design">
+                    The scheme was designed by <persName type="designer">Chamberlain Powell</persName> 
+                    and <persName type="designer">Bon</persName> 
+                    in the <date when="1950s">1950s</date> and is now almost complete.
+                    Visitors joke that it is almost impossible to find one's way about. 
+                    This has been countered by painting lines on the brick paviors.
+                    One can follow them, as Theseus followed his string to escape from the Labyrinth.
+                        
+                </p>
+        
+                <p type="planting">
+                    
+                    The original planting of the roof gardens included <term type="plants">lawns, flower beds, 
+                    trees and shrubs</term>, which required continual irrigation and a high maintenance regime.
+                    
+                    In <date when="2013">2013</date> the planting was revised by <persName type="designer">Nigel Dunnett</persName> to 
+                    create three ‘Designed Plant Communities’ relating to the amout of sunshine the areas receive:
+                        
+                    1. <term type="plants">STEPPE plantings</term> in full sun.
+                    Mixtures of <term type="plants">grasses and perennials</term> that are naturally adapted to dry, 
+                    exposed conditions.
+                    This is the main planting type across the site.
+                    Very colourful, with jewel-like colours, diverse foliage textures and plant forms.
+
+                    2. <term type="plants">SHRUB STEPPE plantings</term> which combine similar mixes of perennials and 
+                    grasses to the steppe plantings, 
+                    but with additional low-density shrubs and multi-stemmed trees, to create multi-layered plantings 
+                    with year-round structure and interest.
+                        
+                    3. <term type="plants">LIGHT WOODLAND plantings</term> in part-shade, and where the growing medium 
+                    depths enable tree growth.
+                    Multi-stem trees, widely spaced create a light, open canopy, with a scattered understory of shrubs, 
+                    and a diverse perennial ground layer.
+                        
+        
+                </p>
+    
+
+            </body>
+
+
+            <address>
+                <street>Silk Street</street>
+                <name>London Wall</name>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>EC2Y 8DS</postCode>
+            </address>
+
+
+        </div>
+
+        <div n="3" type="Battersea Park">
+            <head>Battersea Park</head>
+            <body>
+                <p type="history">
+                    One of London's great <date when="1800s">nineteenth century</date> public parks. 
+                    It was laid out between <date when="1846-1864">1846 and 1864</date> to designs by 
+                    <persName type="designer">James Pennethorne</persName> and <persName type="designer">John Gibson</persName>.
+                    The site, which was originally flat and swampy,
+                    was built up using material excavated from <placeName>the Royal Victoria Dock</placeName> 
+                    and supplied free of charge by <persName type="supplier">Thomas Cubitt</persName>.
+
+                </p>
+
+                <p type="scenery">
+                    <placeName type="garden">Battersea</placeName> retains many typically 
+                    <emph type="gardenStyle">Victorian park features</emph> including
+                    <placeName type="inside"><geogName type="drive">a serpentine carriage drive</geogName></placeName>, 
+                    <placeName type="inside"><geogName type="avenue">a formal avenue</geogName></placeName>, 
+                    <placeName type="inside"><geogName type="lake">an irregular lake</geogName></placeName>, 
+                    <placeName type="inside"><geogName type="plants">flower gardens and shrubberies</geogName></placeName>.
+                    The profit which was made on the terraced houses in
+                    <placeName>Albert Bridge Road</placeName> and <placeName>Prince of 
+                    Wales Drive</placeName> helped to pay for the park which they overlook.
+                </p>
+
+                <p type="design">
+                    <date when="1800s">The nineteenth century</date> design is a public parks version of 
+                    <emph type="gardenStyle">the High Victorian Mixed Style</emph>. 
+                    In <date when="1951">1951</date> the Festival of Britain Pleasure Gardens 
+                    (design by <persName type="festivalDesigner">James Gardener</persName>) were laid out in <placeName type="garden">Battersea Park</placeName> 
+                    and <placeName type="inside"><geogName type="fountains">the fountains</geogName></placeName> survive. 
+                    In design terms they are half-way to <emph type="gardenStyle">the Abstract Style</emph>.
+                </p>
+
+                <p type="scenery">
+                    Battersea has <placeName type="inside"><geogName type="fountains">a Buddhist Peace Pavilion/Peace Pagoda</geogName></placeName> 
+                    beside <placeName>the River Thames</placeName>. 
+                    More could have been done to make its setting more of a <emph type="gardenStyle">Buddist garden landscape</emph>. 
+                    <orgName type="restoration">Wandsworth Council</orgName>, with consultancy advice from 
+                    <orgName type="restoration">Derek Lovejoy and Partners</orgName>,
+                    restored the park in the <date when="1980s">1980s</date>.
+                    The <placeName type="inside"><geogName type="buildings">restored pump house and fine Victorian band stand</geogName></placeName> 
+                    are used as venues for garden weddings.
+
+
+                </p>
+
+                <p type="recommendation">
+                    Battersea Park is on <term type="recommendation">the London Gardens Walk</term> and included in 
+                    <term type="recommendation">the eBook guide to the London Gardens Walk</term>
+                </p>
+
+
+
+            </body>
+
+            <address>
+                <street>Prince of Wales Drive</street>
+                <name>Battersea, Town Hall</name>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>SW11 4NJ</postCode>
+
+            </address>
+        </div>
+
+
+        <div n="4" type="Chiswick House Garden">
+            <head>Chiswick House Garden</head>
+            <body>
+                <p type="history">
+                    The <date when="1720s">1720s</date> garden was sufficiently changed by 'landscape' ideas for 
+                    <persName type="writer">Alexander Pope</persName>
+                    to see it as the first garden in which 'the genius of the place' had been consulted. 
+                    <persName type="designer">Lord Burlington</persName>, the owner and chief designer, 
+                    was helped by <persName type="designer">Charles Bridgeman</persName> and <persName type="designer">William Kent</persName>.
+                    They aimed to make an <emph type="gardenStyle">Augustan style</emph> villa and garden. 
+
+                </p>
+
+                <p type="scenery">
+                    The architecture was modelled on Palladio's 1550 Villa Rotunda.
+                    <term type="architecture">Buildings and obilisks</term> were placed at the ends of 
+                    <placeName type="inside"><geogName type="avenue">avenues</geogName></placeName>, 
+                    in the <emph type="gardenStyle">Baroque manner</emph>. 
+                    <term type="architecture">Classical busts, sphinxes, columns and an exedra</term> 
+                    helped to re-create <emph type="gardenStyle">the landscape of antiquity</emph>.
+
+                </p>
+
+                <p type="design">
+                    The area between the house and the canal, occupied by <term type="architecture">a maze</term> 
+                    in <date when="1730">1730</date>, was the first to be treated in this way. 
+                    Since <emph type="gardenStyle">Kent's style</emph> became influential, we are fortunate that it survives. 
+                    The garden was in poor condition when <persName type="architect">Frank Clark</persName> (quoted below) complained about its condition.
+                    It has been restored, but since there were five important stages in the garden's evolution,
+                    it was a difficult task. 
+                    The plans show the garden as it is today and as it was in <date when="1730">1736</date>.
+                    One sees the change from a nobleman's country estate to an urban park. 
+
+Stage 1: a <date when="1707">1707</date> drawing by <persName type="painter">Leonrard Knyff</persName> showed 
+                    a simple <emph type="gardenStyle">renaissance</emph> garden with <term type="plants">grass plats and knots</term>. 
+                    This has gone, except for the path on the north front of the house.
+
+                    Stage 2: by <date when="1730">1730</date> <persName type="designer">Lord Burlington</persName> 
+                    had made a <emph type="gardenStyle">'Roman'</emph> garden 
+                    which drew something from the <emph type="gardenStyle">Baroque</emph> and something from <persName type="painter">Robert Castell</persName>'s 
+                    Villas of the ancients.
+                    It had <placeName type="inside"><geogName type="avenue">avenues</geogName></placeName>, 
+                    <placeName type="inside"><geogName type="pools">geometrical pools</geogName></placeName>, 
+                    <term type="architecture">an amphitheatre, a maze and several small pavilions</term>.
+
+                    Stage 3: by <date when="1733">1733</date> <persName type="designer">William Kent</persName> was recognised as 
+                    having introduced 'the natural taste in gardening', probably in the area between <term type="architecture">the house</term> and <placeName>the canal</placeName>. 
+                    <term type="architecture">The maze</term> was removed and the area treated in a manner which became famous as 
+                    <emph type="gardenStyle">'the English style'</emph>.
+
+                    Stage 4: by <date when="1753">1753</date>, the year of <persName type="designer">Lord Burlington</persName>'s death,
+                    <term type="architecture">the exedra</term> was planted, <term type="plants">an orangery</term> built 
+                    and more of the land fronting the canal 'naturalised' by removing the basins of water.
+
+                    Stage 5: by <date when="1858">1858</date> <persName type="designer">several Dukes of Devonshire</persName> 
+                    had made further changes to the estate.
+                    This included demolotion of <term type="architecture">the old house</term> and some of Burlington's <term type="architecture">temples</term>. 
+                    A conservatory with an <emph type="gardenStyle">'Italian'</emph> garden was built and the estate became more 'gardened'.
+
+
+
+                </p>
+
+
+            </body>
+            <address>
+                <street>Burlington Lane</street>
+                <name>Chiswick</name>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>W4 2RP</postCode>
+            </address>
+        </div>
+
+
+        <div n="5" type="Green Park">
+            <head>Green Park</head>
+            <body>
+                <p type="scenery">
+                    The smallest of London's Royal Parks.
+                    It is a stately place with 
+                    <placeName type="inside"><geogName type="avenue">a fine central avenue</geogName></placeName> and
+                    informal groups of trees amongst which the valley of the former <placeName>Tyburn river</placeName> 
+                    can just be detected (from the steel covers). 
+
+                </p>
+
+                <p type="history">
+                    <placeName type="inside"><geogName type="avenue">The avenue</geogName></placeName> centres on 
+                    <persName type="architect">Sir Aston Webb</persName>'s <date when="1901">1901</date> rond-point in front of 
+                    <placeName>Buckingham Palace</placeName>.
+                    The land which is now <placeName type="garden">Green Park</placeName> is thought to have been 
+                    a burial ground for lepers in <date when="the Middle Ages">the Middle Ages</date>.
+                    The lepers lived in <placeName>St James's Hospital</placeName>, which was replaced by 
+                    <placeName>St James's Palace</placeName>.
+                    In <date when="1500s">the 16th century</date>, the land was enclosed by <persName type="landlord">the Poultney family</persName>.
+                    They surrendered it to <persName type="royalMale">Charles II</persName> in <date when="1500s">1668</date>.
+                    Wanting a royal walk from <placeName>St James's Palace</placeName> to <placeName>Hyde Park</placeName>
+                    and therefore enclosed it with a brick wall as <placeName type="garden">'Upper St James's Park'</placeName>.
+                    The walk was called his 'Constitutional' and the route became <placeName type="inside"><geogName type="hill">Constitution Hill</geogName></placeName>. 
+                    Charles also built one of England's first <term type="architecture">ice houses</term> in the park.
+                    In <date when="1746">1746</date> the name was changed to <placeName type="garden">Green Park</placeName>.
+                    This could be because it had <term type="architecture">no flower beds</term> - and the reason for this could be that
+                    <persName type="royalFemale">Charles' wife</persName>, having discovered her husband had picked flowers here for a mistress, banned flowers from Green Park.
+                    In <date when="1700s">the 18th century</date> <persName type="royalFemale">Queen Caroline</persName> gave Green Park 
+                    <term type="architecture">a library</term>, <term type="architecture">a reservoir</term> and what became known 
+                    as <term type="architecture">the Queen's Walk</term>.
+                    It was used for public events and when the War of the Austraian Succession ended in <date when="1746">1746</date>,
+                    Handel's Music for the Royal Fireworks received its first performance in <placeName type="garden">Green Park</placeName>. 
+                    <placeName type="garden">Green Park</placeName> was opened to the public in <date when="1826">1826</date>.
+                </p>
+
+                <p type="recommendation">
+                    Green Park is on <term type="recommendation">the London Gardens Walk</term>.
+                </p>
+
+            </body>
+
+            <address>
+                <street>Piccadilly</street>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>SW1</postCode>
+            </address>
+        </div>
+
+        <div n="6" type="Serpentine Gallery Garden">
+            <head>Serpentine Gallery Garden</head>
+            <body>
+                <p type="scenery">
+                    <placeName type="garden">The Serpentine Gallery</placeName> in <placeName type="garden">Kensington Gardens</placeName>
+                    has a different <term type="architecture">pavilion</term> <date when="summer">each summer</date> and, 
+                    in good years, the pavilions have gardens. 
+                    The Gallery also has a garden area designed by <persName type="designer">Ian Hamilton Finlay</persName>.
+                    It is <term type="architecture">a disc of concrete poetry</term> on which is written the names of 
+                    all the trees which can be found in <placeName type="garden">Kensington gardens</placeName>.
+
+                </p>
+
+                <p type="history">
+                    The garden space was designed by <persName type="designer">Colvin and Moggridge landscape architects</persName>.
+                    <persName type="writer">Tony Walker</persName> comments as follows in the mourning for Diana (1999 p.132) 
+                    <term type="architecture">'Ian Hamilton Finlay's sculpture</term>,
+                    dedicated to <persName type="patron">Princess Diana</persName>, former patron of 
+                    <placeName type="garden">the Serpentine Gallery</placeName>,
+                    reworks <date when="1700s">the eighteenth-century</date> tradition of the garden in ways that 
+                    evoke meditation and contemplation (Abrioux 1985). 
+
+                </p>
+
+                <p type="scenery">
+                    <term type="architecture">The sculpture</term> is comprised of eight stone benches, 
+                    a tree-plaque and, at the entrance of the Gallery,
+                    a large slate disc set in a field of cobbles, inscribed with the names of trees (in both Botanical Latin and English) 
+                    found in the classic English landscape of <placeName type="garden">Kensington Gardens</placeName>. 
+                    The eight benches, each inscribed with pastoral poetry,
+                    are arranged in two arcs on a circular mound with <term type="plants">Calininia trees</term>.
+                    This site recalls a classical grove for retreat, meditation, study, burial.
+                    Across the <term type="plants">meadow</term> is a handsome <term type="plants">horse-chestnut</term>, 
+                    with a <term type="architecture">tree-plaque</term> quoting Virgil's Ecologues X
+                    in th original Latin on the theme of evening. Hamilton Finlay's linkage
+                    of elegiac nature, contemplation, memory, transience (death/evening) and classical references,
+                    often in their original Latin, is echoed again, but with contemporary meanings, 
+                    in the poetic quotation by the philosopher <persName type="writer">Francis Hutcheson</persName>, 
+                    <date when="1725">1725</date>,
+                    which is inscribed in the centre of <term type="architecture">the entrance circle</term>:
+                    'The beauty of trees, their cool shades and their aptness to conceal from observation,
+                    have made groves and woods the usual retreat to those who love solitude,
+                    especially to the religious, the pensive, the melancholy, and the amorous.'
+
+
+                </p>
+
+                <p type="scenery">
+                    There is a different <term type="architecture">pavilion</term> in the garden <date when="summer">each summer</date> and, very regrettably, 
+                    very few of them are designed with accompanying gardens. 
+                    Everybody knows that indoor space and outdoor space should be designed together
+                    so the reason for the omission is mysterious.
+                    In 2012 the <persName type="designer">Zaha Hadid</persName> designed 
+                    <placeName type="inside">Serpentine Sackler Gallery</placeName>, 
+                    on <measure type="north">the north side</measure> of the <term type="architecture">bridge</term> over the Serpentine. 
+                    As shown on the architects model, it has a disappointing lack of a garden.
+
+
+                </p>
+
+                <p type="recommendation">
+                    The Serpentine Gallery Garden is on <term type="recommendation">the London Gardens Walk</term> 
+                    and included in <term type="recommendation">the eBook guide to the London Gardens Walk</term>
+                </p>
+
+
+            </body>
+            <address>
+                <street>West Carriage Drive,</street>
+                <name>Serpentine Gallery,Kensington Gardens</name>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>W2 3XA</postCode>
+            </address>
+        </div>
+
+        <div n="7" type="Leicester Square Gardens">
+            <head>Leicester Square Gardens</head>
+            <body>
+                <p type="history">
+                    <placeName type="square">Leicester Square</placeName> is named after <persName type="royalMale">Earl of Leicester</persName> who
+                    built <term type="architecture">Leicester House</term> at the northern end.
+                    It was laid out as a garden square and, in <date when="1850-1900">the late nineteenth century</date>,
+                    given to <orgName type="owner">the Metropolitan Board of Works</orgName>.
+                    <term type="architecture">A statue of William Shakespeare surrounded by dolphins</term> was placed in its centre
+                    and the square became a public garden.
+                    In <date when="1980s">the 1980s</date> the surrounding roads were pedestrianised.
+                    <orgName type="owner">Westminster Council</orgName> then went through years of consultation, 
+                    and the prepration of numerous designs by consultant landscape architects,
+                    before deciding that the best option was to design a garden themselves.
+                    In 2005 Westminster Council published a plan <emph type="gardenStyle">'to transform Leicester Square into
+                    the Home of Cinema in the UK and to bring about a family friendly environment in the evenings with '
+                    a permanent stage constructed to allow for year round entertainment' and 
+                    'removing the statue at the centre of the Square to provide a larger entertainment area'</emph>. 
+                    A landscape architecture competition was won by <persName type="designer">Burns + Nice</persName> and a new layout,
+                    costing <num type="price" value="£18.5m">£18.5m</num> was planned to open in time for the 2012 Olympic Games.
+
+
+                </p>
+
+                <p type="scenery">
+                    It has <term type="architecture">a glittering fence</term>, a <num type="length" value="200m">200m</num> long <term type="architecture">granite ribbon-seat</term> framing the garden,
+                    fountains and a parade axis for film premieres.
+                    <placeName type="garden">Leicester Square</placeName> is the centre of London's cinemaland.
+                    A successful <emph type="gardenStyle">Postmodern design</emph>,
+                    the 'amoeba' shape has a kinship with the plans of <placeName type="outside">the Diana Fountain and Jubilee Gardens</placeName>.
+                    The <date when="1750">1750</date> design had a <emph type="gardenStyle">renaissance layout</emph> and 
+                    the <date when="1750">1880</date> plan exemplified <emph type="gardenStyle">the Victorian mixed style</emph>.
+
+                </p>
+
+                <p type="recommendation">
+                    Leicester Square is on <term type="recommendation">the London Gardens Walk</term> 
+                    and included in <term type="recommendation">the eBook guide to the London Gardens Walk</term>
+                </p>
+
+
+
+            </body>
+            <address>
+                <name>Leicester Square</name>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>WC2H 7LU</postCode>
+            </address>
+        </div>
+
+
+        <div n="8" type="Royal Botanic Gardens, Kew">
+            <head>Royal Botanic Gardens, Kew</head>
+            <body>
+                <p type="history">
+                    The original gardens were created for <persName type="royalFemale">Augusta, Princess of Wales</persName>
+                    around her home, <placeName type="palace">Kew Palace</placeName>.
+                    She was much helped by <persName type="writer">Sir William Chambers</persName>
+                    who was influenced by <emph type="gardenStyle">oriental gardening</emph> and 
+                    designed <term type="architecture">the Chinese pagoda</term> in the grounds and other buildings.
+                    The estate was acquired by the nation in <date when="1841">1841</date>
+                    and enlarged to become a place for the scientific study of horticulture. 
+
+                </p>
+
+                <p type="planting">
+                    It now contains the largest collection of plants in the world with
+                    <term type="plants">tropical and sub-tropical plants</term> being kept in appropriate conditions 
+                    in magnificent <term type="architecture">Victorian glasshouses</term>.
+                    The variety of plants is overwhelming but <placeName type="garden">Kew</placeName> has a magic far above 
+                    the ordinary run of <date when="1837-1901">Victorian</date> plant collections, 
+                    perhaps because of its size and the underlying but unobtrusive formality of its structure.
+                    <placeName type="inside">The Queen's Garden</placeName> is a faithful copy of 
+                    a <date when="1600s">17th century</date> garden with 
+                    <term type="architecture">parterres,sunken garden and pleached alleys</term>.
+                    A new <term type="architecture">treetop walk</term> by 
+                    <orgName type="designer">Marks Barfield Architects</orgName> (who designed the London Eye)
+                    opened in <date when="May 2008">May 2008</date>. 
+                    The walkway is a steel structure, <num type="length" value="200m">200m long</num> 
+                    and <num type="height" value="18m">18m high</num>.
+
+
+
+
+                </p>
+                
+            </body>
+            <address>
+                <street>Richmond,</street>
+                <name>Kew,</name>
+                <region>Greater London, England</region>
+                <postCode>TW9 3AB</postCode>
+
+            </address>
+        </div>
+
+        <div n="9" type="St James's Palace">
+            <head>St James's Palace</head>
+
+            <body>
+                <p type="history">
+                    A Royal Park and one of the most romantic urban landscapes in Europe.
+                    The area was originally a swamp, subject to flooding from 
+                    <placeName type="stream">the Tyburn stream</placeName> which still flows through the lake.
+                    Its <num type="scale" value="23 hectares">23 hectares</num> were first made into 
+                    a park with a <emph type="gardenStyle">rigidly formal design</emph> in <date when="1660">1660</date>.
+                    <persName type="royalMale">Charles II</persName> had a long 
+                    <placeName type="inside"><geogName type="canal">canal</geogName></placeName> excavated 
+                    from the watery land and introduced 
+                    <term type="animal">the geese,pelicans and waterfowl</term> which are still there today.
+
+                </p>
+
+                <p type="design">
+                    The park was completely re-designed by <persName type="designer">John Nash</persName> 
+                    (<date when="1828">1828</date>) in
+                    <emph type="gardenStyle">the English landscape style</emph> (see note on 
+                    <emph type="gardenStyle">Serpentine Style</emph>) 
+                    which he may have learned through his association with 
+                    <persName type="architect">the Humphry and John Repton</persName>.
+                      
+
+
+                </p>
+
+                <p type="scenery">
+                    The subtlety of the contouring is notable and the view from the new 
+                    <term type="architecture">bridge</term> (<date when="1956">1956</date>)
+                    across the lake to <term type="architecture">the Horse Guards</term> and 
+                    <term type="architecture">Whitehall</term> is justly famous.
+                    An <term type="architecture">iron suspension bridge</term> was designed by 
+                    <persName type="designer">James Meadows Rendell</persName> 
+                    and built in <date when="1857">1857</date> and replaced, 
+                    in <date when="1957">1957</date>,by the present <term type="architecture">Blue Bridge</term>,
+                    designed by <persName type="designer">Eric Bedford</persName> of the Ministry of Public Building and Works.
+                    <placeName type="garden">St James's Park</placeName> is the editor's choice as the most beautiful 
+                    and interesting park in London.
+
+
+                </p>
+
+                <p type="recommendation">
+                    St James's Park is on <term type="recommendation">the London Gardens Walk</term> 
+                    and included in <term type="recommendation">the eBook guide to the London Gardens Walk</term>
+                </p>
+
+
+            </body>
+
+            <address>
+                <street>Horse Guards Parade,</street>
+                <city>London</city>
+                <region>Greater London, England</region>
+                <postCode>SW1A 2BJ</postCode>
+            </address>
+        </div>
+
+        <div n="10" type="The Queen's Walk London">
+            <head>The Queen's Walk London</head>
+
+            <body>
+                <p type="history">
+                    <placeName type="garden">The Queen's Walk</placeName> follows the south bank of 
+                    <placeName><geogName type="river">the River Thames</geogName></placeName> 
+                    from <placeName>Lambeth Bridge</placeName> to <placeName>Tower Bridge</placeName>. 
+                    The idea grew out of <persName type="designer">Patrick Abercrombie</persName>'s 
+                    <date when="1943-1944">1943-4</date> County of London Plan.
+                    As shown on the map, Abercrombie proposed that much of this land
+                    should be converted from industry to Public Buildings, Business and Public Open Space.
+                    The <date when="1951">1951</date> Festival of Britain led to the first section of the walk,
+                    running <measure type="east">east</measure> from <placeName>Westminster Bridge</placeName>. 
+                    A more extensive walkway was conceived as part of the <date when="1977">1977</date> <placeName>Jubliee Walkway</placeName>,
+                    to mark the Silver Jubilee of <persName type="royalFemale">Queen Elizabeth II</persName> in <date when="1977">1977</date>.
+                    The walk was completed with the opening of London Bridge City c.<date when="1990">1990</date>. 
+                    In <date when="1996">1996</date>, <placeName type="garden">the Queen's Walk</placeName> became part of 
+                    <term type="architecture">the Thames Path national trail</term> through London.
+                    With the opening of <term type="architecture">the London Eye</term> and <term type="architecture">the Millennium Bridge</term>
+                    (connecting <placeName type="outside">Tate Modern</placeName> to <placeName type="outside">St Paul's Cathedral</placeName>) 
+                    the volume of pedestrian traffic
+                    on <placeName type="garden">the Queen's Walk</placeName> increased dramatically. 
+                    Most of the route can also be used by cyclists.
+
+                </p>
+
+                <p type="scenery">
+                    <placeName type="garden">The Queen's Walk</placeName> is part of <placeName>the Dolphin Zone</placeName>, 
+                    a section of <placeName><geogName type="river">the Thames</geogName></placeName> riverside 
+                    which receives special design consideration.
+                    The name comes from <term type="architecture">the Dolphin lamp</term> standards - 
+                    but the  'Dolphins' are actually a pair of sturgeons. 
+                    The lamps were designed by <persName type="designer">George Vuillamy</persName> 
+                    for the Metropolitan Board of Works 
+                    and modelled by <persName type="architect">James Mabey</persName>.
+                    Alternate lights have either an inscription to <persName type="royalMale">Queen Victoria</persName> 
+                    or the dade of construction. 
+
+
+                </p>
+
+                <p type="history">
+                    The original <placeName>Dolphin Zone</placeName> (made in <date when="1870s">the 1870s</date>) 
+                    was <placeName><geogName type="embankment">the Albert Embankment and the Victoria Embankment</geogName></placeName>.
+                    <orgName type="constructor">The London County Council</orgName> extended this zone 
+                    along the South Bank in <date when="1996">1964</date>.
+                </p>
+
+                <p type="recommendation">
+                    The Queen's Walk is on <term type="recommendation">the London Gardens Walk</term> 
+                    and included in <term type="recommendation">the eBook guide to the London Gardens Walk</term>
+                </p>
+
+
+            </body>
+
+            <address>
+                <name>The Queen's Walk, </name>
+                <region>Greater London, England</region>
+                <postCode>SW1A 2BJ</postCode>
+
+            </address>
+
+        </div>
+
+            
+        
+    </text>
+</TEI>
